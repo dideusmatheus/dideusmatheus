@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando no momento Angular
-- ⚡ Tenho experiência em HTML5, CSS, JS e Bootstrap
+- ⚡ Tenho experiência em HTML5, CSS3, JS e Bootstrap
 - 💬 Tenho conhecimento em Java, C, C++ e Python
 
 <div align="center">
