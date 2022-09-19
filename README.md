@@ -3,8 +3,8 @@
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando no momento Angular
-- ⚡ Tenho experiência em HTML5, CSS3, JS e Bootstrap
-- 💬 Tenho conhecimento em Java, C, C++ e Python
+- ⚡ Tenho experiência em HTML5, CSS3, TS e Bootstrap
+- 💬 Tenho conhecimento em Java, C e C++
 
 <div align="center">
   <a href="https://github.com/dideusmatheus">
