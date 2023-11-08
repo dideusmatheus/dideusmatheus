@@ -1,9 +1,9 @@
-### Opa, e ai!! Eu sou o Matheus Rocha, sou desenvolvedor front-end e estou formando em Sistemas de Informação pela UFV - Universidade Federal de Viçosa 👋
+### Opa, e ai!! Eu sou o Matheus Rocha, sou desenvolvedor front-end Angular e sou formado em Sistemas de Informação pela UFV - Universidade Federal de Viçosa 👋
 
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando no momento Angular
-- ⚡ Tenho experiência em HTML5, CSS3, TS e Bootstrap
+- 🌱 Aprimorando meus conhecimentos em Angular
+- ⚡ Tenho experiência em HTML5, CSS3, TS, Bootstrap e Angular Material
 - 💬 Tenho conhecimento em Java, C e C++
 
 <div align="center">
