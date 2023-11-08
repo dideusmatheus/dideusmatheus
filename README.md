@@ -1,5 +1,8 @@
 ### Opa, e ai!! Eu sou o Matheus Rocha, sou desenvolvedor front-end Angular e sou formado em Sistemas de Informação pela UFV - Universidade Federal de Viçosa 👋
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheus-de-deus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 - 🔭 Hoje trabalho como desenvolvedor front-end Angular;
 - 🌱 Aprimorando meus conhecimentos em Angular;
@@ -12,7 +15,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dideusmatheus&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="dideus-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"> 
   <img align="center" alt="dideus-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"> 
