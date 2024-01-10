@@ -5,7 +5,7 @@
 </div>
 
 - 🔭 Hoje trabalho como desenvolvedor front-end Angular;
-- 🌱 Aprimorando meus conhecimentos em Angular;
+- 🌱 Aprimorando meus conhecimentos em Angular e NodeJS;
 - ⚡ Tenho experiência em HTML5, CSS3, TS, Node, Bootstrap e Angular Material;
 - 💬 Tenho conhecimento em Java, C e C++.
 
