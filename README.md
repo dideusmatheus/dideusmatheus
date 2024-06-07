@@ -1,12 +1,12 @@
-### Opa, e ai!! Eu sou o Matheus Rocha, sou desenvolvedor front-end Angular e sou formado em Sistemas de Informação pela UFV - Universidade Federal de Viçosa 👋
+### Opa, e ai!! Eu sou o Matheus Rocha, sou desenvolvedor front-end e sou formado em Sistemas de Informação pela UFV - Universidade Federal de Viçosa 👋
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-de-deus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-- 🔭 Hoje trabalho como desenvolvedor front-end Angular;
-- 🌱 Aprimorando meus conhecimentos em Angular e NodeJS;
-- ⚡ Tenho experiência em HTML5, CSS3, TS, Node, Bootstrap e Angular Material;
+- 🔭 Hoje trabalho como desenvolvedor front-end Vue3;
+- 🌱 Aprimorando meus conhecimentos em Vue3;
+- ⚡ Tenho experiência em JavaScript, TypeScript, Angular, NodeJS, Bootstrap e Angular Material;
 - 💬 Tenho conhecimento em Java, C e C++.
 
 <div align="center">
