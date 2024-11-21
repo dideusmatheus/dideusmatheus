@@ -4,10 +4,11 @@
   <a href="https://www.linkedin.com/in/matheus-de-deus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-- 🔭 Hoje trabalho como desenvolvedor front-end Vue3;
-- 🌱 Aprimorando meus conhecimentos em Vue3;
-- ⚡ Tenho experiência em JavaScript, TypeScript, Angular, NodeJS, Bootstrap e Angular Material;
-- 💬 Tenho conhecimento em Java, C e C++.
+💻 Hoje trabalho como desenvolvedor front-end Vue 3, Angular e Ionic;
+📚 Aprimorando meus conhecimentos em Vue 3, Angular e Ionic;
+🚀 Experiência em tecnologias e frameworks como JavaScript, TypeScript, Angular, Vue 3, Ionic e Node.js;
+📦 Conhecimento em bibliotecas, tais como Angular Material, Bootstrap, Ionic e Vuetify;
+🛠️ Tenho conhecimentos adicionais em linguagens: Java, C e C++.
 
 <div align="center">
   <a href="https://github.com/dideusmatheus">
